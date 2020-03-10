@@ -1,1 +1,4 @@
 .DS_Store
+automatic_upgrades/
+prep-automatic.sh
+squiz_server/
